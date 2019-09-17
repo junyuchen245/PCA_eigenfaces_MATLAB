@@ -1,5 +1,5 @@
 # Faces detection with Principal Component Analysis (Eigenfaces)
-This is a short implementation of Eigenfaces in:
+This is a short implementation of the Eigenfaces in:
 
 <a href="https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-4-3-519">L. Sirovich and M. Kirby, "Low-dimensional procedure for the characterization of human faces," J. Opt. Soc. Am. A 4, 519-524 (1987).</a>
 
